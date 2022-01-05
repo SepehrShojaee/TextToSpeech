@@ -1,2 +1,5 @@
 # TextToSpeech-C-
-Text To Speech Recognation C#
+Easy and simple Text To Speech Recognation with C#
+Console Application
+
+

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\TextTooSpeechRecognation\TextTooSpeechRecognation\bin\Debug\TextTooSpeechRecognation.exe.config
+C:\Users\LENOVO\source\repos\TextTooSpeechRecognation\TextTooSpeechRecognation\bin\Debug\TextTooSpeechRecognation.exe
+C:\Users\LENOVO\source\repos\TextTooSpeechRecognation\TextTooSpeechRecognation\bin\Debug\TextTooSpeechRecognation.pdb
+C:\Users\LENOVO\source\repos\TextTooSpeechRecognation\TextTooSpeechRecognation\obj\Debug\TextTooSpeechRecognation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TextTooSpeechRecognation\TextTooSpeechRecognation\obj\Debug\TextTooSpeechRecognation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextTooSpeechRecognation\TextTooSpeechRecognation\obj\Debug\TextTooSpeechRecognation.exe
+C:\Users\LENOVO\source\repos\TextTooSpeechRecognation\TextTooSpeechRecognation\obj\Debug\TextTooSpeechRecognation.pdb

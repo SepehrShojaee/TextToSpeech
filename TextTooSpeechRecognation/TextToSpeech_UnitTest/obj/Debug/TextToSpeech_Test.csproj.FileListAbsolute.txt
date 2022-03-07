@@ -1,0 +1,75 @@
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech_UnitTest.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech_UnitTest.pdb
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.Model.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.exe
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.Model.pdb
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.pdb
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.exe.config
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csprojAssemblyReference.cache
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csproj.CoreCompileInputs.cache
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csproj.CopyComplete
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_UnitTest.dll
+C:\Users\Sepehr\Desktop\TTS\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_UnitTest.pdb
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech_UnitTest.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech_UnitTest.pdb
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.Model.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.exe
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.Model.pdb
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.pdb
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.exe.config
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csprojAssemblyReference.cache
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csproj.CoreCompileInputs.cache
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csproj.CopyComplete
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_UnitTest.dll
+C:\Users\Sepehr\Desktop\TTS - Copy\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_UnitTest.pdb
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech_UnitTest.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech_UnitTest.pdb
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Castle.Core.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.Model.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.exe
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.Model.pdb
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.pdb
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\TextToSpeech.View.WinForm.exe.config
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Castle.Core.xml
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csprojAssemblyReference.cache
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csproj.CoreCompileInputs.cache
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_Test.csproj.CopyComplete
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_UnitTest.dll
+C:\Users\Sepehr\Desktop\TextToSpeech\TextTooSpeechRecognation\TextToSpeech_UnitTest\obj\Debug\TextToSpeech_UnitTest.pdb
